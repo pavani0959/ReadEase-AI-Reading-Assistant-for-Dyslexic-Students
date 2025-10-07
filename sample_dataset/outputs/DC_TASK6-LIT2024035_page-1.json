@@ -1,0 +1,50 @@
+[
+  {
+    "name": "plain text",
+    "class": 1,
+    "confidence": 0.86671,
+    "box": {
+      "x1": 211.74652,
+      "y1": 423.99515,
+      "x2": 607.84943,
+      "y2": 2001.96899
+    },
+    "text": "Q) include<bits/stdc++.h> sing namespace std; nt main(){ string s; cin>>s; bool n=(s[0]=='-'); if(n){ s=s.substr(1); } string a; string b; int p=s.find(''); if(p==-1){ a=s; b=\"; { else{ a=s.substr(0,p); b=s.substr(p+1); Y while(b.size()<2){ :.0.=+q Y if(b.size()>2){ b=b.substr(0,2); Y string r=\" int c=0; for(int i=a.size()-1;i>=0;i--){ r=a[i]+r; C++; if(c==3&&i>0){ r=\"\"+r, c=0; Y Y if(r==\"){ r=\"0\";"
+  },
+  {
+    "name": "title",
+    "class": 0,
+    "confidence": 0.86397,
+    "box": {
+      "x1": 602.86633,
+      "y1": 288.41818,
+      "x2": 852.27325,
+      "y2": 358.35052
+    },
+    "text": "TASK-6"
+  },
+  {
+    "name": "abandon",
+    "class": 2,
+    "confidence": 0.40962,
+    "box": {
+      "x1": 196.21457,
+      "y1": 199.939,
+      "x2": 398.07874,
+      "y2": 275.99295
+    },
+    "text": "Gubba Pavani LIT2024035"
+  },
+  {
+    "name": "title",
+    "class": 0,
+    "confidence": 0.28815,
+    "box": {
+      "x1": 196.21457,
+      "y1": 199.939,
+      "x2": 398.07874,
+      "y2": 275.99295
+    },
+    "text": "Gubba Pavani LIT2024035"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "figure",
+    "class": 3,
+    "confidence": 0.92521,
+    "box": {
+      "x1": 199.63342,
+      "y1": 202.87352,
+      "x2": 1504.90283,
+      "y2": 1074.72168
+    },
+    "text": "+++ Run Visualize Code #include<bits/stdc++.h> 0.00987654321 using namespace std;. 3 int main{ 4 string s;cin>>s; 5 bool n=s[0]=-='-'); 6 if(n){ s=s.substr1); ouuunt 8 9 string a; string b;. 10 int p=s.find('.'); Status : Successfully executed 11 ifp==-1 12 a=s;b=\" 13 else{ Time: Memory: 14 15 a=s.substr(0,p);b=s.substr(p+1); 0.0000 secs 3.372 Mb 16 17 while(b.size<2){ Sample Input 18 .0.=+q 19 0.00987654321 20 if(b.size>2){ 21 b=b.substr(0,2); Your Output 22 23 string r=\"\";int c=0; ($0.00) 24 for(inti=a.size-1;i>=0i--{ 25 r=a[i]+r;c++ 26 ifc==3&&i>0{ 27 r=\",\"+r; c=0; 28 29 30 ifr==\"){ 31 r=\"0\"; 32 33 string i f=$+r+\".+b; 34 if(n){ 35 f=\"(\"+f+\")\"; 36 37 cout<<f<<endL; 38 39"
+  }
+]

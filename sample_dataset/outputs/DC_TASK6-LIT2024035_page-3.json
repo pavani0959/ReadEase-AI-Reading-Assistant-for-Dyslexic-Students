@@ -1,0 +1,14 @@
+[
+  {
+    "name": "figure",
+    "class": 3,
+    "confidence": 0.89613,
+    "box": {
+      "x1": 198.54741,
+      "y1": 199.88861,
+      "x2": 1502.71851,
+      "y2": 1857.01111
+    },
+    "text": "#include<bits/stdc++.h> 0.000 using namespace std; int mainO{ string s;cin>>s; bool n=(s[0]--'-'); if(n){ s=s.substr(1); Output string a; string b; int p=s.find('.'); Status: Successfully executed ifp==-1){ a=s;b=\"\"; else{ Time: Memory: a=s.substr(0,p;b=s.substr(p+1); 0.0000secs 3.56 Mb whileb.sizeO<2){ Sample Input b+='0'; 0.000 if(b.size()>2){ b=b.substr(0,2); Your Output $0.00 for(int i=a.size()-1;i>=0;i--){ r=a[i]+r;c++; if(c==3&&i>0){ r=+rc=0 if(r= \"){ r=\"0\"; String f=\"$\"+r+\".\"+b; if(n){ f=\"(\"+f+\")\"; cout<<f<<endL; #include<bits/stdc++.h> 12345678.9 using namespace std; int main{ string s;cin>>s; bool n=(s[0]--'-'); if(n){ S=s.substr(1); ouurnf string a; string b; int p=s.find('.'); Status : Successfully executed if(p==-1){ a=s;b=\"\" ; else{ Time: Memory: a=s.substr(0,p);b=s.substr(p+1); 0.0000 secs 3.568 Mb while(b.size()<2){ Sample Input b+='0'; -12345678.9 ifb.size>2{ b=b.substr(0,2); Your Output string r=\"\";int c=0; ($12,345,678.90) for(int i=a.size(-1;i>=0;i--){ r=a[i]+r;c++; ifc==3&&i>0{ r=\",\"+r; c=0; if(r==\"){ r=\"0\"; string f f=$+r+\".+b; if(n){ f=\"(+f+\"; cout<<f<<endl;"
+  }
+]

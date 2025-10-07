@@ -1,0 +1,17 @@
+{
+  "document_title": "Gubba Pavani LIT2024035",
+  "headings": [
+    {
+      "heading": "General",
+      "points": [
+        "Y string f=\"$\"+r+\".\"+b if(n){ f=\"(+f+\")\"; Y"
+      ]
+    },
+    {
+      "heading": "TASK-6",
+      "points": [
+        "Q) include<bits/stdc++.h> sing namespace std; nt main(){ string s; cin>>s; bool n=(s[0]=='-'); if(n){ s=s.substr(1); } string a; string b; int p=s.find(''); if(p==-1){ a=s; b=\"; { else{ a=s.substr(0,p); b=s.substr(p+1); Y while(b.size()<2){ :.0.=+q Y if(b.size()>2){ b=b.substr(0,2); Y string r=\" int c=0; for(int i=a.size()-1;i>=0;i--){ r=a[i]+r; C++; if(c==3&&i>0){ r=\"\"+r, c=0; Y Y if(r==\"){ r=\"0\";"
+      ]
+    }
+  ]
+}

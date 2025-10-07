@@ -1,0 +1,26 @@
+[
+  {
+    "name": "plain text",
+    "class": 1,
+    "confidence": 0.93221,
+    "box": {
+      "x1": 196.70566,
+      "y1": 200.83281,
+      "x2": 505.03549,
+      "y2": 480.4183
+    },
+    "text": "Y string f=\"$\"+r+\".\"+b if(n){ f=\"(+f+\")\"; Y"
+  },
+  {
+    "name": "figure",
+    "class": 3,
+    "confidence": 0.91364,
+    "box": {
+      "x1": 199.47581,
+      "y1": 524.75244,
+      "x2": 1505.19604,
+      "y2": 1337.70361
+    },
+    "text": "F Run Visualize Code #include<bits/stdc++.h> 2012 using namespace std; int mainO{ string s;cin>>s; bool n=(s[0]--'-'); 6 if(n){ s=s.substr(1); Output 8 9 string a; string b; 10 int p=s.find('.'); Status :Successfully executed 11 ifp==-1){ 12 a=sb= 13 14 else{ Time: Memory: 15 a=s.substr0,p);b=s.substr(p+1); 0.0000 secs 3.592 Mb 16 17 while(b.size<2){ Sample Input 18 b+='0'; 19 2012 20 if(b.size)>2){ 21 b=b.substr(0,2); Your Output 22 23 string r=\"\";int c=0; $2,012.00 24 forint i=a.size-1;i>=0;i--{ 25 r=a[i]+r;c++; 26 ifc==3&&i>0{ 27 r=\",\"+r;|c=0; 28 29 30 ifr==\"){ 31 r=\"0\"; 32 33 string gf=\"$\"+r+\".\"+b; 34 ifn){ 35 f=\"(\"+f+\")\"; 36 37 cout<<f<<endL; 38 } 39"
+  }
+]
