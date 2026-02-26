@@ -52,7 +52,7 @@ ReadEase is an AI-powered document reading assistant designed to improve accessi
 
 ## 🎯 Problem Statement
 
-Reading long and unstructured documents can be challenging — not only for dyslexic students, but also for learners who want quick revision, structured summaries, or audio-based learning support.
+Reading long and unstructured documents can be challenging — mainly for dyslexic students, but also for learners who want quick revision, structured summaries, or audio-based learning support.
 
 ReadEase helps by:
 
